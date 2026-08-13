@@ -19,6 +19,11 @@ Windows 桌面程序（可执行文件），暖色调黑喵主题的个人效率
 
 数据存在本地，不用担心隐私问题，断网也能用！
 
+## 📌 版本记录
+
+- **v1.1（当前）**：小黑喵工作台，完整效率功能与黑喵主题，从 Releases 下载。
+- **v1.0（早期）**：workbench.exe 单文件版（2026-08-13 构建），已并入本仓库统一管理。
+
 ## 文件与安装
 
 - 推荐从 [Releases 页面](https://github.com/Alice-P197/xiaoheimiao-workbench/releases) 下载最新版（v1.1 附件：XiaoHeiMiao-Workbench-v1.1.exe），双击即可运行；如系统提示“未知发布者”，可在安全警告中点击“仍要运行”。
