@@ -21,8 +21,9 @@ Windows 桌面程序（可执行文件），暖色调黑喵主题的个人效率
 
 ## 文件与安装
 
-- \小黑喵工作台.exe\（约 36.4 MB），下载后双击即可运行；如系统提示“未知发布者”，可在安全警告中点击“仍要运行”。
+- 推荐从 [Releases 页面](https://github.com/Alice-P197/xiaoheimiao-workbench/releases) 下载最新版（v1.1 附件：XiaoHeiMiao-Workbench-v1.1.exe），双击即可运行；如系统提示“未知发布者”，可在安全警告中点击“仍要运行”。
+- 仓库内同时附有 `小黑喵工作台.exe` 供直接获取。
 
 ## 校验
 
-SHA-256: \9B962D8DF9AFCA318D07E1232C7A5FD642B47851708B8DAF88914FBC1DD80DF3
+SHA-256: 
